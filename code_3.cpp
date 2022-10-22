@@ -86,6 +86,7 @@ int main()
     cout << endl;
     cout << "----------快速排序-----------" << endl;
 
-    cout<<"Insert a statement here for later testing" << endl;
+    cout << "Insert a statement here for later testing" << endl;
+    cout << "Added the first change" << endl;
     return 0;
 }
