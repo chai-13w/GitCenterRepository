@@ -88,5 +88,6 @@ int main()
 
     cout << "Insert a statement here for later testing" << endl;
     cout << "Added the first change" << endl;
+    cout << "Added the second change" << endl;
     return 0;
 }
